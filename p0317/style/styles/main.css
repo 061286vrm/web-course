@@ -1,0 +1,27 @@
+section{
+    padding: 20px;
+    margin: 20px;
+}
+.title_style_violet{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+.title_style_orange{
+    background-color: orange;
+    font-weight: bolder;
+}
+.brand
+{
+    background-color: aquamarine;
+    color: royalblue;
+    font-weight: inherit;
+    font-size: x-large;
+}
+.article_limegreen{
+    background-color: lightgreen;
+    font-style: italic;
+}
+.article_bly{
+    background-color: blue;
+    font-style: oblique;
+}
