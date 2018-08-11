@@ -1,0 +1,8 @@
+p { font-style: italic;
+}
+article > p { color: red; }
+article p { font-size: x-small;
+}
+article > section > p { color: blue; }
+article > section > p:last-child { font-weight: bold; }
+tbody tr:nth-child(even) { background-color: lightgrey; }
